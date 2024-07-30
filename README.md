@@ -2,7 +2,7 @@
 
 Description of task 
 
-This project was an individual task where I needed to determine the distribution of the most shocking words in an ABC news article data set that consisted of 1048576 headlines.  The proposed method to approach the problem was undefined, so I decided to solve it using a MapReduce algorithm, considering the size of the data at hand. The shocking words in question were also undefined, so I selected the words based on my own personal opinion of shocking news headlines, characterising them into 2 categories: 'horrible shocking words' and 'funny shocking words'. 
+This project was an individual task where I needed to determine the distribution of the most shocking words in an ABC news article data set that consisted of 1048576 headlines.  The proposed method to approach the problem was undefined, so I decided to solve it using a MapReduce algorithm, considering the size of the data at hand. The shocking words in question were also undefined, so I selected the words based on my own personal opinion of shocking news headlines, characterising them into 2 categories: 'horrible shocking words' and 'funny shocking words'. Each step of the solution is annotated accordingly in the uploaded notebook. 
 
 
 Detailed explanation of task solution
