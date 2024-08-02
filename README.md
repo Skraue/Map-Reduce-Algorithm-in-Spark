@@ -2,7 +2,7 @@
 
 Description of task 
 
-This project was an individual task where I needed to determine the distribution of the most shocking words in an ABC news article data set that consisted of 1048576 headlines.  The proposed method to approach the problem was undefined, so I decided to solve it using a MapReduce algorithm, considering the size of the data at hand. The shocking words in question were also undefined, so I selected the words based on my own personal opinion of shocking news headlines, characterising them into 2 categories: 'horrible shocking words' and 'funny shocking words'. Each step of the solution is annotated accordingly in the uploaded notebook. 
+This university project was an individual task where I needed to determine the distribution of the most shocking words in an ABC news article data set that consisted of 1048576 headlines.  The proposed method to approach the problem was undefined, so I decided to solve it using a MapReduce algorithm, considering the size of the data at hand. The shocking words in question were also undefined, so I selected the words based on my own personal opinion of shocking news headlines, characterising them into 2 categories: 'horrible shocking words' and 'funny shocking words'. Each step of the solution is annotated accordingly in the uploaded notebook. 
 
 
 Detailed explanation of task solution
@@ -14,7 +14,7 @@ I first defined the shocking words across two categories:
 
 My selection words from these categories  was based on my personal opinions as well as the content of previous news articles that I have read related to these subjects. My word selection is therefore as follows:
 
-1) Horrible Shocking Words Selection:'kill','murder','attack','dead','death','accident','stabbed','stabbing','assault','assaulting','assaulted','killed','killing','manslaughter','fire','kidnap','kidnapping','kidnapped','rape','raped','torture','raping','torture','torturing','tortured','shot','shooting','exploded','explosion'. 
+1) Horrible Shocking Words Selection:'kill','murder','attack','dead','death','accident','stabbed','stabbing','assault','assaulting','assaulted','killed','killing','manslaughter','fire','kidnap','kidnapping','kidnapped','torture','torturing','tortured','shot','shooting','exploded','explosion'. 
 
 2) Funny Shocking words: 'bamboozled','bamboozle','bamboozled','clown','clowns','flabbergasted','monkey'. 
 
